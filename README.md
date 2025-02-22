@@ -95,3 +95,8 @@ In San Diego, patients face significant challenges:
    - Improved resource allocation
    - Better patient outcomes
 
+Team Members:
+- Priyansh S. Zinzuvadia
+- Aayush Khandelwal
+- Radhika Ravindra
+- Shreya Shah
