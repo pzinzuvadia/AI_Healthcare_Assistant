@@ -8,6 +8,7 @@
 ## Fast-Tracking Specialist Access for Smarter, Quicker Care 🚀
 
 [Our Solution to Big Data Hackathon held at SDSU's Big Data Analytics department and co-sponsored by Sharp Healthcare]
+
 Catalyst is an innovative healthcare solution designed to integrate seamlessly with Sharp Healthcare's existing application, addressing the critical challenges in specialist healthcare access and patient care management in San Diego.
 
 ### 🌟 Key Features
